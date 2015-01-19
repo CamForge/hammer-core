@@ -9,6 +9,7 @@
 	<modules>
 		<module>goldenhammer-client</module>
 		<module>goldenhammer-events</module>
+		<module>goldenhammer-state-machine</module>
 	</modules>
 	<repositories>
 		<repository>

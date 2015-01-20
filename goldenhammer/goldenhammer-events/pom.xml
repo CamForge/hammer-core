@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.eden.software.solution.goldenhammer</groupId>
-    <artifactId>golendhammer</artifactId>
+    <artifactId>goldenhammer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.eden.software.solution.goldenhammer.events</groupId>

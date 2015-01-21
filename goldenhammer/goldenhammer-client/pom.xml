@@ -9,9 +9,6 @@
 	<groupId>com.eden.software.solution.goldenhammer.client</groupId>
 	<artifactId>goldenhammer-client</artifactId>
 	<dependencies>
-		<dependency> 
-			<groupId>org.primefaces</groupId>
-			<artifactId>primefaces</artifactId>
-		</dependency>
+		
 	</dependencies>
 </project>

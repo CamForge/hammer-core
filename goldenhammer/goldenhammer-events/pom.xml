@@ -7,4 +7,14 @@
   </parent>
   <groupId>com.eden.software.solution.goldenhammer.events</groupId>
   <artifactId>goldenhammer-events</artifactId>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>com.eden.software.solution.goldenhammer.client</groupId>
+  		<artifactId>goldenhammer-client</artifactId>
+  		<version>${project.version}</version>
+  		<scope>compile</scope>
+  	</dependency>
+  </dependencies>
+  
 </project>

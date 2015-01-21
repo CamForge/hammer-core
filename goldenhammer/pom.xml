@@ -10,6 +10,7 @@
 		<module>goldenhammer-client</module>
 		<module>goldenhammer-events</module>
 		<module>goldenhammer-state-machine</module>
+		<module>goldenhammer-web</module>
 	</modules>
 	<repositories>
 		<repository>
